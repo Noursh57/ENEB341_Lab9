@@ -9,3 +9,5 @@ void transposeMatrix(int original[][MAX_SIZE], int transposed[][MAX_SIZE], int r
 void printMatrix(int matrix[][MAX_SIZE], int row, int col) ;
 
 #endif
+
+//Changes These. Yes

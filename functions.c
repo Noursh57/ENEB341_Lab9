@@ -9,6 +9,8 @@ void transposeMatrix(int original[][MAX_SIZE], int transposed[][MAX_SIZE], int r
             transposed[j][i] = original[i][j];
         }
     }
+
+    //These is changes
 }
 
 void printMatrix(int matrix[][MAX_SIZE], int row, int col) {
